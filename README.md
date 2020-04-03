@@ -1,5 +1,7 @@
-Хакатон MemoryHack
-Команда MemHack:
+## Хакатон MemoryHack
+
+### Команда MemHack:
 * Роберт Воропаев
 * Шуана Пирбудагова
 * Mikhail Kuznetsov
+* Mariia Rumiantceva
